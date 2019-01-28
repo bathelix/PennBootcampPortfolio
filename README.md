@@ -1,2 +1,1 @@
-# bathelix.github.io
-My GitHub page repo
+This was my old portfolio build.
